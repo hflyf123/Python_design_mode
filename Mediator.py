@@ -1,5 +1,4 @@
 # coding=utf-8
-
 class Mediator:
     '''
     抽象中介者
